@@ -1,0 +1,26 @@
+{
+  "name": "@confluxfans/td-resolver",
+  "version": "1.0.0",
+  "description": "Resolver for trust domain",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conflux-fans/td-resolver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conflux-fans/td-resolver/issues"
+  },
+  "homepage": "https://github.com/conflux-fans/td-resolver#readme",
+  "dependencies": {
+    "eth-ens-namehash": "^2.0.8"
+  },
+  "devDependencies": {
+    "js-conflux-sdk": "^1.7.0"
+  }
+}
